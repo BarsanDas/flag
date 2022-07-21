@@ -1,0 +1,32 @@
+body {
+
+
+
+
+    background-image: url("fball/f1.png.png");
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: top 100px right;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.blog-header {
+    line-height: 1;
+    border-bottom: 1px solid #e5e5e5;
+
+    .div1 {
+        width: 30px;
+        height: 50;
+    }
+}
